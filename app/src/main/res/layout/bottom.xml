@@ -18,6 +18,7 @@
                 android:background="#00000000"
                 android:src="@drawable/tab_weixin_normal"
                 android:id="@+id/img_btn_main_page"
+                android:clickable="false"
         />
         <TextView
                 android:text="主页"
@@ -40,6 +41,7 @@
                 android:background="#00000000"
                 android:src="@drawable/tab_find_frd_normal"
                 android:id="@+id/img_btn_friend_page"
+                android:clickable="false"
         />
         <TextView
                 android:text="朋友"
@@ -62,6 +64,7 @@
                 android:background="#00000000"
                 android:src="@drawable/tab_address_normal"
                 android:id="@+id/img_btn_connect_page"
+                android:clickable="false"
         />
         <TextView
                 android:text="通讯录"
@@ -84,6 +87,7 @@
                 android:background="#00000000"
                 android:src="@drawable/tab_settings_normal"
                 android:id="@+id/img_btn_setting_page"
+                android:clickable="false"
         />
         <TextView
                 android:text="设置"
